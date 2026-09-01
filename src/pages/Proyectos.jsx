@@ -1,7 +1,7 @@
 export default function Proyectos(){
     return(
         <>
-        <div className="pt-32">
+        <div className="pt-40">
             <section className="flex w-[70%] mx-auto justify-around flex-wrap " alt="Projects" >
 
                 {/* card tienda api */}
